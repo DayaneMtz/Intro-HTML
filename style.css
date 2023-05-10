@@ -1,0 +1,20 @@
+body{
+
+    background-color:rgb(208, 170, 243);
+
+    /*letras*/
+    color:rgb(255, 252, 253);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,cursiva;
+}
+
+p{
+    color:beige;
+}
+
+img{
+    width: 300px;
+}
+
+main img {
+    padding: 50px;;
+}
